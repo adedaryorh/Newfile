@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/adedaryorh/Project4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/adedaryorh/Project4/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/adedaryorh/mlops-containerization-with-docker-and-kubernetes/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/adedaryorh/mlops-containerization-with-docker-and-kubernetes/tree/master)
 
 ## Project Overview
 
