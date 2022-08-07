@@ -4,7 +4,7 @@
 
 # Step 1:
 # This is your Docker ID/path
-dockerpath="nigercode/sklearn-microservice-api"
+dockerpath="adedaryorh/sklearn-microservice-api"
 
 # Step 2
 # Run the Docker Hub container with kubernetes 
