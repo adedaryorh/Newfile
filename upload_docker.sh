@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath="adedaryorh/sklearn-microservice-api"
+dockerpath="nigercode/sklearn-microservice-api"
 
 # Step 2:  
 # Authenticate & tag
