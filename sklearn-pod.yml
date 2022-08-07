@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
   - name: sklearn
-    image: nigercode/sklearn-microservice-api:latest
+    image: adedaryorh/sklearn-microservice-api:latest
     command: ['sh', '-c', 'echo "Creating sklearn-pod ..." && sleep 3600']
     ports:
     - containerPort: 80
